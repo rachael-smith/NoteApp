@@ -6,7 +6,7 @@ This project is a node console app
 - Add a Note (Validation if note with the title already exists it won't add a new one)
 - Remove a Note
 - List All Notes (returns a list of notes with title and bosy)
--Read a Note (lookup by title)
+- Read a Note (lookup by title)
 
 ## To Run
 * Clone Repo
